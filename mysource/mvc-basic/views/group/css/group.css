@@ -1,0 +1,23 @@
+div.wrapper .list .even {
+    background-color: #ccddc1;
+}
+
+div.wrapper .list .odd {
+    background-color: #fff;
+}
+
+div.wrapper .content .check_all_last {
+    background-color: #58b1f7ee;
+    width: 80px;
+    padding: 5px;
+}
+
+div.wrapper .content .check_all_last {
+    background-color: #58b1f7ee;
+    width: 80px;
+    padding: 5px;
+}
+
+div.wrapper .content .check_all_last input {
+    margin: 3px;
+}
